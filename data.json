@@ -1,0 +1,935 @@
+{
+ "meta": {
+  "updated": "2026-11-17",
+  "brief": "Anthropic is due to price on Wed 18 Nov and start trading on Nasdaq as ANT on Thu 19 Nov, in what would be the second-largest IPO on record. Most other big names (OpenAI, Databricks, Kraken, Canva) have slipped to 2027; Nscale still targets a listing before year-end."
+ },
+ "ipos": [
+  {
+   "id": "anthropic",
+   "name": "Anthropic",
+   "ticker": "ANT",
+   "exchange": "Nasdaq",
+   "sector": "AI models",
+   "country": "US",
+   "region": "us",
+   "stage": "pricing",
+   "window": "now",
+   "when": "Prices 18 Nov · trades 19 Nov",
+   "valB": 1000,
+   "valText": "$916bn–$1.02tn",
+   "raise": "$57.8bn–$64.4bn",
+   "range": "$70–$78",
+   "facts": [
+    "825 million Class A shares offered at $70–$78; pricing expected Wed 18 Nov, first trade Thu 19 Nov.",
+    "The range values the company at $916bn–$1.02tn on shares outstanding, or about $1.26tn–$1.4tn fully diluted.",
+    "Q3 2026 revenue was reported at $17.0bn (+1,127% year on year), with a nine-month net loss of $104.0bn.",
+    "Demand was reported at six to nearly seven times the shares on offer. The final price can still land outside the range."
+   ],
+   "sources": [
+    {
+     "t": "SEC — Anthropic S-1/A",
+     "u": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm"
+    },
+    {
+     "t": "CNBC — price range set at $70 to $78",
+     "u": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html"
+    },
+    {
+     "t": "MLQ — what to know before pricing",
+     "u": "https://mlq.ai/news/anthropics-ipo-what-to-know-before-wednesdays-pricing/"
+    },
+    {
+     "t": "AlphaSense — primer on the S-1",
+     "u": "https://www.alpha-sense.com/api/html-embed/file-4c88b5685d7120f5cdcdc99545773cca679d25fd-html/"
+    },
+    {
+     "t": "TMGM — IPO key details and ownership",
+     "u": "https://www.tmgm.com/en/academy/trading-academy/when-is-anthropic-ipo-everything-you-need-to-know"
+    }
+   ],
+   "updated": "2026-11-17",
+   "date": "2026-11-19",
+   "priceDate": "2026-11-18",
+   "lockupDate": "2027-05-17",
+   "lockNote": "Estimate: 180 days after pricing",
+   "fin": {
+    "rev": "$17.0bn (Q3 2026)",
+    "growth": "+1,127% YoY",
+    "net": "−$104.0bn (9 months)"
+   },
+   "sheet": {
+    "revenue": [
+     {
+      "p": "Q3 2026 REVENUE",
+      "v": "$17.0bn (+1,127% YoY)"
+     },
+     {
+      "p": "ANNUALISED (REPORTED)",
+      "v": "$81bn"
+     },
+     {
+      "p": "NET RESULT, 9 MONTHS",
+      "v": "−$104.0bn"
+     }
+    ],
+    "underwriters": "22 banks, led by Goldman Sachs and Morgan Stanley",
+    "holders": "Google and Amazon are the largest outside shareholders; the co-founders control 50.1% of the votes",
+    "proceeds": "General corporate purposes: computing and infrastructure, hiring, possible acquisitions, tax on employee share awards",
+    "lockup": "180 days for most insiders, 365 days for founder-related holders, with an early release tied to Q1 results",
+    "offer": "801.4m new shares plus 23.6m from existing holders; up to 123.75m extra for the banks; up to 20% set aside for retail; $26bn private placement alongside",
+    "risks": [
+     "Very large losses: a $104.0bn net loss over nine months.",
+     "The co-founders keep voting control, so outside shareholders have limited say.",
+     "About 15.5bn shares are under lock-up or standoff agreements and can come to market once those end.",
+     "Computing and infrastructure spending is named as a main use of the money raised."
+    ]
+   }
+  },
+  {
+   "id": "nscale",
+   "name": "Nscale",
+   "ticker": "NSCL",
+   "exchange": "NYSE",
+   "sector": "AI cloud",
+   "country": "UK",
+   "region": "eu",
+   "stage": "filed",
+   "window": "2026",
+   "when": "Target: before 31 Dec 2026",
+   "valB": 30,
+   "valText": "$14.6bn–$35bn (reported)",
+   "raise": "Up to $3bn (reported)",
+   "range": "Not set",
+   "facts": [
+    "Public S-1 filed 18 Sep 2026; amended 12 Nov. Price range, share count and deal size are still blank.",
+    "Revenue was $140.6m in the first half of 2026 (+1,252%) and $307.5m over nine months, with a nine-month net loss of $1.69bn.",
+    "Total debt rose to about $5.5bn at 30 Sep and the filing says more financing is needed for 2027.",
+    "Reported to be weighing a pause until 2027 amid volatile tech markets, and to face investor pushback on valuation."
+   ],
+   "sources": [
+    {
+     "t": "CNBC — Nscale files to go public",
+     "u": "https://www.cnbc.com/2026/09/18/nscale-ai-cloud-provider-ipo-nscl.html"
+    },
+    {
+     "t": "TNW — debt hits $5.5bn ahead of IPO",
+     "u": "https://thenextweb.com/news/nscale-ipo-filing-debt-nvidia-anthropic"
+    },
+    {
+     "t": "VKTR — needs more financing for Anthropic deal",
+     "u": "https://www.vktr.com/ai-market/nscale-says-it-needs-more-financing-to-deliver-on-446b-anthropic-deal/"
+    },
+    {
+     "t": "PPC Land — S-1 details",
+     "u": "https://ppc.land/nscale-loses-1-02bn-in-six-months-on-the-road-to-a-nyse-listing/"
+    },
+    {
+     "t": "Stock Analysis — Nscale updates",
+     "u": "https://stockanalysis.com/private/nscale/"
+    }
+   ],
+   "updated": "2026-11-17",
+   "fin": {
+    "rev": "$307.5m (9 months)",
+    "growth": "+1,252% (H1)",
+    "net": "−$1.69bn (9 months)"
+   },
+   "sheet": {
+    "revenue": [
+     {
+      "p": "2025 REVENUE",
+      "v": "$33m"
+     },
+     {
+      "p": "H1 2026 REVENUE",
+      "v": "$140.6m (+1,252%)"
+     },
+     {
+      "p": "9 MONTHS 2026",
+      "v": "$307.5m"
+     },
+     {
+      "p": "NET RESULT, 9 MONTHS",
+      "v": "−$1.69bn"
+     }
+    ],
+    "underwriters": "Goldman Sachs, JPMorgan, Morgan Stanley",
+    "holders": "Backers include Nvidia and Microsoft",
+    "proceeds": "General corporate purposes: data centre projects and deployments, technology development, working capital",
+    "risks": [
+     "Microsoft and Anthropic make up about 86% of the $103bn contract book; only $2.6bn of contracts were active at 31 Aug.",
+     "No binding financing yet for the build-out behind the Anthropic agreements (up to $44.6bn), which include termination rights.",
+     "Debt of about $5.5bn and a loss several times larger than revenue."
+    ]
+   }
+  },
+  {
+   "id": "openai",
+   "name": "OpenAI",
+   "ticker": "",
+   "exchange": "Not announced",
+   "sector": "AI models",
+   "country": "US",
+   "region": "us",
+   "stage": "confidential",
+   "window": "2027",
+   "when": "As soon as 2027",
+   "valB": 852,
+   "valText": "$852bn (last round)",
+   "raise": "Not disclosed",
+   "range": "Not set",
+   "facts": [
+    "Draft S-1 reported as confidentially filed on 8 Jun 2026.",
+    "The CEO has said a listing will not happen in 2026.",
+    "$122bn was committed in its March 2026 funding round."
+   ],
+   "sources": [
+    {
+     "t": "Value Add VC — IPO pipeline 2026",
+     "u": "https://valueaddvc.com/blog/ipo-pipeline-2026-every-company-expected-to-go-public-this-year-and-current-status"
+    },
+    {
+     "t": "Admirals — upcoming IPOs calendar",
+     "u": "https://admiralmarkets.com/education/articles/general-trading/upcoming-ipos-2026-calendar"
+    }
+   ],
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "databricks",
+   "name": "Databricks",
+   "ticker": "",
+   "exchange": "Not announced",
+   "sector": "Data & AI platform",
+   "country": "US",
+   "region": "us",
+   "stage": "prep",
+   "window": "2027",
+   "when": "2027",
+   "valB": 190,
+   "valText": "~$190bn",
+   "raise": "Not disclosed",
+   "range": "Not set",
+   "facts": [
+    "Raised $5bn in August 2026; no IPO filing yet.",
+    "Revenue run rate reported above $7bn, growing more than 80%.",
+    "The CEO chose to avoid listing in 2026, a year of very large offerings."
+   ],
+   "sources": [
+    {
+     "t": "Value Add VC — IPO pipeline 2026",
+     "u": "https://valueaddvc.com/blog/ipo-pipeline-2026-every-company-expected-to-go-public-this-year-and-current-status"
+    },
+    {
+     "t": "Kiplinger — upcoming IPOs to watch",
+     "u": "https://www.kiplinger.com/investing/stocks/upcoming-ipos"
+    }
+   ],
+   "updated": "2026-11-17",
+   "fin": {
+    "rev": ">$7bn run rate",
+    "growth": "80%+"
+   }
+  },
+  {
+   "id": "canva",
+   "name": "Canva",
+   "ticker": "",
+   "exchange": "Not announced",
+   "sector": "Design software",
+   "country": "Australia",
+   "region": "other",
+   "stage": "prep",
+   "window": "2027",
+   "when": "2027",
+   "valB": 42,
+   "valText": "$42bn",
+   "raise": "Not disclosed",
+   "range": "Not set",
+   "facts": [
+    "Late-stage preparation, no S-1 filed; management has pointed to 2027.",
+    "More than $3.3bn in annual recurring revenue and 190m+ monthly users.",
+    "Moved its domicile to Delaware and hired a CFO with IPO experience."
+   ],
+   "sources": [
+    {
+     "t": "Value Add VC — IPO pipeline 2026",
+     "u": "https://valueaddvc.com/blog/ipo-pipeline-2026-every-company-expected-to-go-public-this-year-and-current-status"
+    }
+   ],
+   "updated": "2026-11-17",
+   "fin": {
+    "rev": "$3.3bn+ ARR"
+   }
+  },
+  {
+   "id": "discord",
+   "name": "Discord",
+   "ticker": "",
+   "exchange": "Not announced",
+   "sector": "Social / gaming",
+   "country": "US",
+   "region": "us",
+   "stage": "confidential",
+   "window": "2027",
+   "when": "Late 2026 or 2027",
+   "valB": 10,
+   "valText": "$8.5bn–$15bn",
+   "raise": "Not disclosed",
+   "range": "Not set",
+   "facts": [
+    "Confidentially filed on 6 Jan 2026.",
+    "250m monthly active users; 2025 revenue of $561m (+29%).",
+    "Secondary trades valued it near $8.5bn, down 43% from a $15bn peak."
+   ],
+   "sources": [
+    {
+     "t": "Value Add VC — IPO pipeline 2026",
+     "u": "https://valueaddvc.com/blog/ipo-pipeline-2026-every-company-expected-to-go-public-this-year-and-current-status"
+    }
+   ],
+   "updated": "2026-11-17",
+   "fin": {
+    "rev": "$561m (2025)",
+    "growth": "+29%"
+   }
+  },
+  {
+   "id": "kraken",
+   "name": "Kraken",
+   "ticker": "",
+   "exchange": "Not announced",
+   "sector": "Crypto exchange",
+   "country": "US",
+   "region": "us",
+   "stage": "paused",
+   "window": "paused",
+   "when": "Slipping to 2027",
+   "valB": 13.3,
+   "valText": "~$13.3bn",
+   "raise": "Not disclosed",
+   "range": "Not set",
+   "facts": [
+    "Confidentially filed, then paused in March on weak crypto markets.",
+    "The co-CEO has described the company as 80% ready.",
+    "Deutsche Börse invested $200m through a secondary purchase."
+   ],
+   "sources": [
+    {
+     "t": "Value Add VC — IPO pipeline 2026",
+     "u": "https://valueaddvc.com/blog/ipo-pipeline-2026-every-company-expected-to-go-public-this-year-and-current-status"
+    }
+   ],
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "revolut",
+   "name": "Revolut",
+   "ticker": "",
+   "exchange": "US listing favoured",
+   "sector": "Fintech / neobank",
+   "country": "UK",
+   "region": "eu",
+   "stage": "watch",
+   "window": "later",
+   "when": "Not before 2028 (reported)",
+   "valB": 150,
+   "valText": "$150bn–$200bn target",
+   "raise": "Not disclosed",
+   "range": "Not set",
+   "facts": [
+    "No filing; reports put a listing at 2027–2028 or not before 2028.",
+    "More than 50 million customers.",
+    "A US venue is reported as favoured over London."
+   ],
+   "sources": [
+    {
+     "t": "Admirals — upcoming IPOs calendar",
+     "u": "https://admiralmarkets.com/education/articles/general-trading/upcoming-ipos-2026-calendar"
+    },
+    {
+     "t": "Value Add VC — IPO pipeline 2026",
+     "u": "https://valueaddvc.com/blog/ipo-pipeline-2026-every-company-expected-to-go-public-this-year-and-current-status"
+    }
+   ],
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "stripe",
+   "name": "Stripe",
+   "ticker": "",
+   "exchange": "Not announced",
+   "sector": "Payments",
+   "country": "US / Ireland",
+   "region": "us",
+   "stage": "watch",
+   "window": "later",
+   "when": "2027 or later",
+   "valB": 159,
+   "valText": "~$159bn",
+   "raise": "Not disclosed",
+   "range": "Not set",
+   "facts": [
+    "In no rush to list; employees get liquidity through tender offers.",
+    "The February 2026 tender valued it near $159bn, up from $91.5bn a year earlier."
+   ],
+   "sources": [
+    {
+     "t": "Value Add VC — IPO pipeline 2026",
+     "u": "https://valueaddvc.com/blog/ipo-pipeline-2026-every-company-expected-to-go-public-this-year-and-current-status"
+    }
+   ],
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "anduril",
+   "name": "Anduril",
+   "ticker": "",
+   "exchange": "Not announced",
+   "sector": "Defence tech",
+   "country": "US",
+   "region": "us",
+   "stage": "watch",
+   "window": "later",
+   "when": "2027 or later",
+   "valB": 61,
+   "valText": "~$61bn",
+   "raise": "Not disclosed",
+   "range": "Not set",
+   "facts": [
+    "No filing yet; raised a $5bn Series H in May 2026.",
+    "Holds a $20bn US Army contract and targets $4.3bn of revenue in 2026."
+   ],
+   "sources": [
+    {
+     "t": "Value Add VC — IPO pipeline 2026",
+     "u": "https://valueaddvc.com/blog/ipo-pipeline-2026-every-company-expected-to-go-public-this-year-and-current-status"
+    }
+   ],
+   "updated": "2026-11-17",
+   "fin": {
+    "rev": "$4.3bn target (2026)"
+   }
+  },
+  {
+   "id": "knds",
+   "name": "KNDS",
+   "ticker": "",
+   "exchange": "Frankfurt · Euronext Paris",
+   "sector": "Defence",
+   "country": "Germany / France",
+   "region": "eu",
+   "stage": "paused",
+   "window": "paused",
+   "when": "Suspended 1 Jul 2026",
+   "valB": 27,
+   "valText": "~€25bn (indicative, reported)",
+   "raise": "Owners sought €12.5bn+",
+   "range": "Not set",
+   "facts": [
+    "Tank maker's dual listing was suspended on 1 Jul 2026; no prospectus has been published.",
+    "The CEO has said a 2026 listing remains possible."
+   ],
+   "sources": [
+    {
+     "t": "Admirals — upcoming IPOs calendar",
+     "u": "https://admiralmarkets.com/education/articles/general-trading/upcoming-ipos-2026-calendar"
+    },
+    {
+     "t": "Saxo — Europe's IPO comeback",
+     "u": "https://www.home.saxo/content/articles/equities/iposeu-27012026"
+    }
+   ],
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "perplexity",
+   "name": "Perplexity",
+   "ticker": "",
+   "exchange": "Not announced",
+   "sector": "AI search",
+   "country": "US",
+   "region": "us",
+   "stage": "watch",
+   "window": "later",
+   "when": "2027–2028 (CEO)",
+   "valB": 20,
+   "valText": "$20bn+",
+   "raise": "Not disclosed",
+   "range": "Not set",
+   "facts": [
+    "No filing; the CEO has pointed to 2027–2028.",
+    "About $500m in annual recurring revenue; backers include IVP, NEA and Nvidia."
+   ],
+   "sources": [
+    {
+     "t": "Value Add VC — IPO pipeline 2026",
+     "u": "https://valueaddvc.com/blog/ipo-pipeline-2026-every-company-expected-to-go-public-this-year-and-current-status"
+    }
+   ],
+   "updated": "2026-11-17",
+   "fin": {
+    "rev": "~$500m ARR"
+   }
+  },
+  {
+   "id": "lambda",
+   "name": "Lambda",
+   "ticker": "",
+   "exchange": "Not announced",
+   "sector": "AI cloud",
+   "country": "US",
+   "region": "us",
+   "stage": "watch",
+   "window": "2027",
+   "when": "2027 (pushed from 2026)",
+   "valB": 14.5,
+   "valText": "~$14.5bn pre-money",
+   "raise": "Not disclosed",
+   "range": "Not set",
+   "facts": [
+    "Nvidia-backed GPU cloud; IPO target moved from 2026 to 2027.",
+    "Reported to be raising up to $4bn, led by Blackstone and Coatue."
+   ],
+   "sources": [
+    {
+     "t": "Value Add VC — IPO pipeline 2026",
+     "u": "https://valueaddvc.com/blog/ipo-pipeline-2026-every-company-expected-to-go-public-this-year-and-current-status"
+    }
+   ],
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "monzo",
+   "name": "Monzo",
+   "ticker": "",
+   "exchange": "Not decided",
+   "sector": "Fintech / neobank",
+   "country": "UK",
+   "region": "eu",
+   "stage": "watch",
+   "window": "later",
+   "when": "Not set",
+   "valB": 8.5,
+   "valText": "£6bn–£7bn",
+   "raise": "Not disclosed",
+   "range": "Not set",
+   "facts": [
+    "No timing or venue set; part of the pipeline that has mostly slipped to 2027."
+   ],
+   "sources": [
+    {
+     "t": "Admirals — upcoming IPOs calendar",
+     "u": "https://admiralmarkets.com/education/articles/general-trading/upcoming-ipos-2026-calendar"
+    },
+    {
+     "t": "Dealroom — upcoming and recent IPOs",
+     "u": "https://dealroom.net/blog/upcoming-recent-ipos"
+    }
+   ],
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "plaid",
+   "name": "Plaid",
+   "ticker": "",
+   "exchange": "Not announced",
+   "sector": "Fintech infrastructure",
+   "country": "US",
+   "region": "us",
+   "stage": "watch",
+   "window": "later",
+   "when": "Not set",
+   "valB": 8,
+   "valText": "$8bn",
+   "raise": "Not disclosed",
+   "range": "Not set",
+   "facts": [
+    "Exploring an IPO; valued at $8bn in February 2026.",
+    "Revenue grew 25% in 2025; more than 150m connected consumers."
+   ],
+   "sources": [
+    {
+     "t": "Value Add VC — IPO pipeline 2026",
+     "u": "https://valueaddvc.com/blog/ipo-pipeline-2026-every-company-expected-to-go-public-this-year-and-current-status"
+    }
+   ],
+   "updated": "2026-11-17",
+   "fin": {
+    "growth": "+25% (2025)"
+   }
+  },
+  {
+   "id": "spacex",
+   "name": "SpaceX",
+   "ticker": "SPCX",
+   "exchange": "Nasdaq",
+   "sector": "Space / satellites",
+   "country": "US",
+   "region": "us",
+   "stage": "listed",
+   "date": "2026-06-12",
+   "cur": "$",
+   "ipoNum": 135,
+   "ipoPrice": "$135.00",
+   "lastNum": 137.3,
+   "last": "≈$137.30",
+   "chg": 1.7,
+   "asOf": "Close 16 Nov 2026",
+   "raise": "~$86bn",
+   "facts": [
+    "Listed 12 Jun 2026; the largest IPO on record at about $86bn including the over-allotment.",
+    "Closed day one at $160.95 (+19.2%), peaked at $225.64 days later, then fell back to near the IPO price.",
+    "The remaining 180-day lock-up ends 8 Dec 2026."
+   ],
+   "sources": [
+    {
+     "t": "Admirals — upcoming IPOs calendar",
+     "u": "https://admiralmarkets.com/education/articles/general-trading/upcoming-ipos-2026-calendar"
+    },
+    {
+     "t": "Asianet Newsable — after the first-day pop",
+     "u": "https://newsable.asianetnews.com/markets/anthropic-ipo-frenzy-spcx-cbrs-arm-and-other-mega-listings-show-what-happens-after-the-first-day-pop-articleshow-6eqnbid"
+    },
+    {
+     "t": "StockAlarm — SPCX lock-up schedule",
+     "u": "https://pro.stockalarm.io/blog/spacex-ipo-lockup-financials"
+    }
+   ],
+   "updated": "2026-11-17",
+   "day1Num": 160.95,
+   "lockupDate": "2026-12-08",
+   "lockNote": "Up to 797.6m shares",
+   "sheet": {
+    "lockup": "180-day lock-up ends 8 Dec 2026 (up to 797.6m shares); Elon Musk's shares stay locked to 12 Jun 2027"
+   }
+  },
+  {
+   "id": "skhynix",
+   "name": "SK hynix (ADS)",
+   "ticker": "SKHY",
+   "exchange": "Nasdaq",
+   "sector": "Memory chips",
+   "country": "South Korea",
+   "region": "other",
+   "stage": "listed",
+   "date": "2026-07-10",
+   "cur": "$",
+   "ipoNum": 149,
+   "ipoPrice": "$149.00",
+   "lastNum": 122.18,
+   "last": "$122.18",
+   "chg": -18,
+   "asOf": "Stock Analysis, mid-Nov 2026",
+   "raise": "$26.51bn",
+   "facts": [
+    "Listed 10 Jul 2026; the largest US IPO by a foreign company."
+   ],
+   "sources": [
+    {
+     "t": "Stock Analysis — all 2026 IPOs",
+     "u": "https://stockanalysis.com/ipos/2026/"
+    },
+    {
+     "t": "IPOScoop — 2026 pricings",
+     "u": "https://www.iposcoop.com/current-year-pricings/"
+    }
+   ],
+   "updated": "2026-11-17",
+   "day1Num": 168.01
+  },
+  {
+   "id": "cerebras",
+   "name": "Cerebras Systems",
+   "ticker": "CBRS",
+   "exchange": "Nasdaq",
+   "sector": "AI chips",
+   "country": "US",
+   "region": "us",
+   "stage": "listed",
+   "date": "2026-05-14",
+   "cur": "$",
+   "ipoNum": 185,
+   "ipoPrice": "$185.00",
+   "lastNum": 100.99,
+   "last": "$100.99",
+   "chg": -45.4,
+   "asOf": "Stock Analysis, mid-Nov 2026",
+   "raise": "$5.55bn",
+   "facts": [
+    "Closed its first day at $311.07 (+68%), then fell well below the $185 IPO price.",
+    "Closed at $97.75 on 12 Nov before rebounding after third-quarter results; Q3 core revenue rose 70% to $230.9m."
+   ],
+   "sources": [
+    {
+     "t": "EBC — why Cerebras fell below its IPO price",
+     "u": "https://www.ebc.com/forex/cerebras-stock-below-ipo-price"
+    },
+    {
+     "t": "Stock Analysis — all 2026 IPOs",
+     "u": "https://stockanalysis.com/ipos/2026/"
+    }
+   ],
+   "updated": "2026-11-17",
+   "day1Num": 311.07,
+   "fin": {
+    "rev": "$510m (2025)",
+    "growth": "+76%"
+   }
+  },
+  {
+   "id": "jerseymikes",
+   "name": "Jersey Mike's Subs",
+   "ticker": "JMKE",
+   "exchange": "NYSE",
+   "sector": "Restaurants",
+   "country": "US",
+   "region": "us",
+   "stage": "listed",
+   "date": "2026-07-30",
+   "cur": "$",
+   "ipoNum": 23,
+   "ipoPrice": "$23.00",
+   "lastNum": 19.21,
+   "last": "$19.21",
+   "chg": -16.5,
+   "asOf": "Stock Analysis, mid-Nov 2026",
+   "raise": "~$1.0bn",
+   "facts": [
+    "Listed 30 Jul 2026."
+   ],
+   "sources": [
+    {
+     "t": "Stock Analysis — all 2026 IPOs",
+     "u": "https://stockanalysis.com/ipos/2026/"
+    },
+    {
+     "t": "IPOScoop — 2026 pricings",
+     "u": "https://www.iposcoop.com/current-year-pricings/"
+    }
+   ],
+   "updated": "2026-11-17",
+   "day1Num": 21.63
+  },
+  {
+   "id": "forgent",
+   "name": "Forgent Power Solutions",
+   "ticker": "FPS",
+   "exchange": "NYSE",
+   "sector": "Power equipment",
+   "country": "US",
+   "region": "us",
+   "stage": "listed",
+   "date": "2026-02-05",
+   "cur": "$",
+   "ipoNum": 27,
+   "ipoPrice": "$27.00",
+   "lastNum": 25.81,
+   "last": "$25.81",
+   "chg": -4.4,
+   "asOf": "Close 30 Oct 2026",
+   "raise": "$1bn+",
+   "facts": [
+    "Listed 5 Feb 2026."
+   ],
+   "sources": [
+    {
+     "t": "Admirals — upcoming IPOs calendar",
+     "u": "https://admiralmarkets.com/education/articles/general-trading/upcoming-ipos-2026-calendar"
+    }
+   ],
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "csg",
+   "name": "CSG (Czechoslovak Group)",
+   "ticker": "CSG",
+   "exchange": "Euronext Amsterdam",
+   "sector": "Defence",
+   "country": "Czech Republic",
+   "region": "eu",
+   "stage": "listed",
+   "date": "2026-01-23",
+   "cur": "€",
+   "ipoNum": 25,
+   "ipoPrice": "€25.00",
+   "lastNum": 10.74,
+   "last": "€10.74",
+   "chg": -57,
+   "asOf": "11 Nov 2026",
+   "raise": "€3.8bn",
+   "facts": [
+    "The largest defence IPO on record, listed in Amsterdam at a €25bn valuation; closed day one at €32.85 (+31.4%).",
+    "Shares fell about 20% on 11 Nov after the company cut its full-year margin forecast, touching a low of €10.35."
+   ],
+   "sources": [
+    {
+     "t": "Euronext — CSG lists on Euronext",
+     "u": "https://www.euronext.com/en/about/media/euronext-press-releases/czechoslovak-group-lists-euronext-0"
+    },
+    {
+     "t": "Beursgenoten — CSG na de koersval",
+     "u": "https://www.beursgenoten.nl/analyses/nieuwsflash/csg-de-koers-is-ingestort-maar-wat-is-het-bedrijf-nu-waard"
+    },
+    {
+     "t": "Expats.cz — CSG shares plunge",
+     "u": "https://www.expats.cz/czech-news/article/csg-shares-plunge-more-than-20-percent-as-czech-arms-giant-cuts-margin-outlook"
+    }
+   ],
+   "updated": "2026-11-17",
+   "day1Num": 32.85
+  },
+  {
+   "id": "jio",
+   "name": "Jio Platforms",
+   "ticker": "",
+   "exchange": "NSE · BSE",
+   "sector": "Telecom / digital",
+   "country": "India",
+   "region": "other",
+   "stage": "listed",
+   "date": "2026-10-28",
+   "cur": "₹",
+   "ipoNum": 1119,
+   "ipoPrice": "₹1,119",
+   "lastNum": 1358,
+   "last": "₹1,358",
+   "chg": 21.4,
+   "asOf": "Listing price, 28 Oct 2026",
+   "raise": "₹30,213 crore",
+   "facts": [
+    "Only the listing-day result is on file; the current price has not been checked yet."
+   ],
+   "sources": [
+    {
+     "t": "Admirals — upcoming IPOs calendar",
+     "u": "https://admiralmarkets.com/education/articles/general-trading/upcoming-ipos-2026-calendar"
+    }
+   ],
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "shein",
+   "name": "SHEIN",
+   "ticker": "",
+   "exchange": "Hong Kong",
+   "sector": "Fast fashion",
+   "country": "Singapore / China",
+   "region": "other",
+   "stage": "listed",
+   "date": "2026-09-01",
+   "cur": "HK$",
+   "ipoNum": 48.56,
+   "ipoPrice": "HK$48.56",
+   "lastNum": 48.5,
+   "last": "HK$48.50",
+   "chg": -0.1,
+   "asOf": "First trading day, 1 Sep 2026",
+   "raise": "~$1.74bn",
+   "facts": [
+    "Listed in Hong Kong after earlier UK and US attempts were dropped.",
+    "Only the first-day result is on file; the current price has not been checked yet."
+   ],
+   "sources": [
+    {
+     "t": "Admirals — upcoming IPOs calendar",
+     "u": "https://admiralmarkets.com/education/articles/general-trading/upcoming-ipos-2026-calendar"
+    }
+   ],
+   "updated": "2026-11-17",
+   "day1Num": 48.5
+  }
+ ],
+ "news": [
+  {
+   "id": "2026-11-17-fool-week",
+   "date": "2026-11-17",
+   "ipo": "anthropic",
+   "source": "The Motley Fool",
+   "title": "A crowded week: Anthropic's debut, Nvidia earnings and Fed minutes",
+   "summary": "Anthropic's first trading day falls on the same day the Fed publishes its October minutes, with Nvidia's results also due this week.",
+   "url": "https://www.fool.com/investing/2026/11/17/4-dates-that-could-move-the-stock-market-in-epic-fashion-this-week-here-s-what-investors-need-to-know/"
+  },
+  {
+   "id": "2026-11-17-first-day-pops",
+   "date": "2026-11-17",
+   "ipo": "spacex",
+   "source": "Asianet Newsable",
+   "title": "What happened after this year's big first-day pops",
+   "summary": "SpaceX closed Monday only 1.7% above its IPO price and 14.7% below its first-day close, with a lock-up expiry due on 8 Dec.",
+   "url": "https://newsable.asianetnews.com/markets/anthropic-ipo-frenzy-spcx-cbrs-arm-and-other-mega-listings-show-what-happens-after-the-first-day-pop-articleshow-6eqnbid"
+  },
+  {
+   "id": "2026-11-17-ant-pricing",
+   "date": "2026-11-17",
+   "ipo": "anthropic",
+   "source": "MLQ",
+   "title": "Anthropic prices on Wednesday: the numbers to know",
+   "summary": "The 825m-share deal would raise $57.75bn–$64.35bn, second only to SpaceX's listing in June.",
+   "url": "https://mlq.ai/news/anthropics-ipo-what-to-know-before-wednesdays-pricing/"
+  },
+  {
+   "id": "2026-11-17-ant-nasdaq",
+   "date": "2026-11-17",
+   "ipo": "anthropic",
+   "source": "CoinGape",
+   "title": "Nasdaq approves Anthropic's listing under ANT",
+   "summary": "The $70–$78 range is unchanged in the revised filing.",
+   "url": "https://coingape.com/anthropic-class-a-shares-approved-for-nasdaq-listing-under-ant-ticker/"
+  },
+  {
+   "id": "2026-11-16-ant-guide",
+   "date": "2026-11-16",
+   "ipo": "anthropic",
+   "source": "CNBC",
+   "title": "Anthropic IPO guide: price Wednesday, trade Thursday",
+   "summary": "CNBC's overview of the date, range and structure of the offering.",
+   "url": "https://www.cnbc.com/2026/11/16/anthropic-ipo-date-price-range.html"
+  },
+  {
+   "id": "2026-11-13-nscale-debt",
+   "date": "2026-11-13",
+   "ipo": "nscale",
+   "source": "TNW",
+   "title": "Nscale's debt reaches $5.5bn ahead of its IPO",
+   "summary": "The amended prospectus says the company will need more capital and still gives no price range.",
+   "url": "https://thenextweb.com/news/nscale-ipo-filing-debt-nvidia-anthropic"
+  },
+  {
+   "id": "2026-11-11-csg-plunge",
+   "date": "2026-11-11",
+   "ipo": "csg",
+   "source": "Expats.cz",
+   "title": "CSG drops about 20% after cutting its margin outlook",
+   "summary": "The Amsterdam-listed defence group hit its lowest price since listing at €25 in January.",
+   "url": "https://www.expats.cz/czech-news/article/csg-shares-plunge-more-than-20-percent-as-czech-arms-giant-cuts-margin-outlook"
+  },
+  {
+   "id": "2026-11-10-ant-range",
+   "date": "2026-11-10",
+   "ipo": "anthropic",
+   "source": "CNBC",
+   "title": "Anthropic sets its range at $70 to $78",
+   "summary": "An updated filing put 825 million shares on offer, with trading targeted for 19 Nov.",
+   "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html"
+  },
+  {
+   "id": "2026-11-05-cyber-2027",
+   "date": "2026-11-05",
+   "ipo": "",
+   "source": "ION Analytics",
+   "title": "Cybersecurity names line up for 2027",
+   "summary": "Cohesity and Proofpoint are among possible 2027 candidates, with Illumio, Cyera and Veeam seen as longer-term prospects.",
+   "url": "https://ionanalytics.com/insights/mergermarket/cybersecurity-ipo-hopefuls-face-ai-test-as-2027-pipeline-takes-shape/"
+  },
+  {
+   "id": "2026-10-29-pipeline-slips",
+   "date": "2026-10-29",
+   "ipo": "",
+   "source": "Dealroom",
+   "title": "Most of the big pipeline has slipped to 2027",
+   "summary": "OpenAI, Databricks, Kraken, Plaid and Monzo are now mostly 2027 stories; Oura postponed near quarter end.",
+   "url": "https://dealroom.net/blog/upcoming-recent-ipos"
+  }
+ ]
+}
